@@ -1,31 +1,33 @@
 # Agile Student Catalog Group 4
 
-This repository contains the code for a student catalog application using TypeScript and JavaScript.
+This repository contains the code for a student catalog Typescript application, which was a group exercise in using agile development.
 
-## Table of Contents
+## Contents
 
-- [Introduction](#introduction)
+- [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Overview
 
 The Agile Student Catalog Group 4 project aims to provide a simple application for managing student data. The application allows users to view and manage lists of students, including their ID, name, age, and active status.
+
+<img src="./assets/screenshots/student_catalog.png">
 
 ## Installation
 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/kippeves/Agile-studentcatalog-group4.git
+   git clone https://github.com/jplimmer/agile-studentcatalog-group4.git
    ```
 
 2. **Navigate to the Directory:**
 
    ```bash
-   cd Agile-studentcatalog-group4
+   cd agile-studentcatalog-group4
    ```
 
 3. **Install Dependencies:**
@@ -74,8 +76,4 @@ We welcome contributions! To get started, follow these steps:
 
 ## License
 
-This project is licensed under the ISC license. See the [LICENSE] file for details.
-
----
-
-Feel free to customize this README based on your specific requirements and add more sections as needed. If you have any questions or need further assistance, feel free to ask!
+This project is licensed under the MIT license. See the [LICENSE] file for details.
